@@ -34,6 +34,8 @@ CSS 4 Continue
 	Styling Table
 
 	nth-child
+		n number
+		even, odd
 
 	Display
 		None
