@@ -1,0 +1,93 @@
+Introcution
+    ========Last Assignment Solution============
+    Dynamic vs Static Website
+    APIS
+    Database
+    
+    HTML 5
+        Helpfull Extention
+            HTML Snippets
+            HTML CSS Support
+            Intellisense for CSS classname
+            Auto Rename Tag
+            Auto Close Tag
+            Live Server
+            
+        Document Title
+        h1 to h6
+            h1 about blog
+        Paragraph p
+        Commenting
+        Line Break br
+        Put Line Between hr
+        Bold Text Strong
+        Bold Text b
+        Underline u 
+        Italic (1st Way) i
+        Itelic (2nd Way) address
+        strikethrough del
+        strikethrough s
+        Double Quotes q
+        Superscript sup
+        Subscript sub
+        Error Formatt samp
+        Code Formatt code
+            Tags inside tags
+        
+        a tag
+        Open Files with a
+        Download Files with a
+        Open Files in new Tab
+        All Upper Tag Example with blog 
+
+        link tag
+        link CSS Same Directory File ./
+        link CSS Folder In Directory ../
+        Linking Javascript
+        linking multiple CSS and Javascript
+        Favicon
+        
+        VScode File Search
+        Function Search
+        toggle wordwarp
+        toggle Screencast
+
+        Img Tag (src, width, height)
+        Img attributes
+            alt
+            src
+        Image From URL
+        Image Open In New Tab
+        Hyperlink Image
+        
+        Link Google Fonts
+
+        Unordered List tag (ul)
+        Ordered List (ol)
+            reversed
+            start
+            type (1 A a I i)
+        Discriptive List (dl > dt, dd)
+            List with a and li
+        details Dropdown (details > summary, p)
+            already open
+
+        Charset
+        X-UA-Compatiable
+        Refresh <meta http-equiv="refresh" content="30">
+        Content Type <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        Default Style <meta http-equiv="default-style" content="the document's preferred stylesheet">
+        Content Security Policy <meta http-equiv="content-security-policy" content="default-src 'self'">
+        Viewport
+        Author <meta name="author" content="John Doe">
+        Description (SEO) <meta name="description" content="Write decritpion here">
+        Keywords (SEO) (Deprecated) <meta name="keywords" content="HTML, CSS, JavaScript">
+
+        Explain ID and Class (Important)
+=========================================
+SEO Tags
+Input tags
+Class & ID
+
+🧲 Source:
+https://www.w3schools.com/tags/ref_byfunc.asp

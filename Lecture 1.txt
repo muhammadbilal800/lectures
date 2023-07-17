@@ -1,0 +1,57 @@
+Introduction
+    FrontEnd
+        Web Designs
+        Components
+            HTML/CSS/JS
+                Tailwindcss
+                SCSS
+            Frameworks
+                ReactJS
+                VueJS
+                Svelte
+                Angular
+                BackboneJS
+            Libraries
+                Library vs Framework
+                    AlpineJS
+                    Livewire
+                    JQuery
+        UI/UX
+    BackEnd
+        What is Backend
+        Programming Languages
+            PHP
+            Ruby
+            Python
+            GoLang
+            Java
+            Ruby
+        Frameworks
+            Laravel
+            Django
+            NextJS
+            ExpressJS
+            Flash
+            Ruby On Rails
+            NodeJS (JS Run-time)
+    Explain Stacks
+        TALL
+        MERN
+        MEAN
+        LAMP
+Final Recommendation
+    FrontEnd framework
+    BackEnd framework
+
+Brower F12 Inspect Details
+Web Deigns Inspiration
+    Dribbble.com
+
+Requirements
+    VSCode
+    Browser
+
+================Assignment=================
+Dynamic vs Static Website
+APIS
+Database

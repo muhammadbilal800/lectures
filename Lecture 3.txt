@@ -1,0 +1,112 @@
+Introduction
+    SEO Tags
+    Input tags
+    Class & ID
+===============================================
+        Styles and Semantics (Important)
+            div
+            section
+            span
+            Header
+            footer
+            main
+            article
+            style
+            nav
+===============================================
+
+        Table Tag
+        Table Row with Header
+        Table Rows with Data
+        Populating With Data
+
+        Form
+            action
+            method
+            enctype
+            
+        Form Tags
+            Input
+            Textarea
+            select
+            Label
+            button
+                submit
+        Explaining Types
+            Types with Default Values
+                text (any text)
+                email (email @)
+                password (hidden)
+                number (counting)
+                range (min, max)
+                search
+                tel
+                time
+                url
+                week
+                radio
+                checkbox
+                color
+                date
+                month
+                datetime-local
+                hidden
+            Name Attribute (Important)
+            ID Attribute
+            Value Attribute
+            Placeholder Attribute
+            Required Attribute
+            Disabled Attribute
+            MaxLength Attribute
+            Autocomplete Attribute
+            Max & Min Attributes
+            Checked Attribute
+            Readonly Attribute
+            Number in decial (step)
+            
+            File Type
+                accept
+                ecntype
+            Label Tag / For Attribute
+                Upload with Image Icon Click
+                
+        Textarea tag
+            col
+            Row
+            Default Values
+        Select tag
+            options
+            optgroup
+                selected
+                miltiple
+        datalist tag
+            Explain Form Submission and Database
+            Login Form Concept
+        button
+            
+        Video Tag
+            Video Source
+                controls
+                width
+                height
+                muted
+                loop
+                autoplay
+                preload
+                src
+        Audio Tag
+        iframe tag
+            target="_top"
+            youtube video embed
+        Add Google Maps
+        Scroll to ID On Click
+=========================================
+What is CSS & It's uses
+CSS Selectors
+
+
+🧲 Source:
+https://www.w3schools.com/tags/ref_byfunc.asp
+
+🧲 Download Code:
+https://github.com/webmentordev/html5-course

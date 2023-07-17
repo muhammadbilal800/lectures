@@ -1,0 +1,109 @@
+CSS3
+    What is CSS & It's uses
+    CSS Selectors
+    =============================
+    Adding File
+        Internal
+        External
+        Inline
+    Selectors
+        classname
+        ID
+        *
+    
+    commenting
+
+    text color
+        hex
+        rgb
+        rgba
+        hsl
+        hwb
+    background color
+        hex
+        rgb
+        rgba
+        hsl
+        hwb
+    padding
+        Explain Sides
+    margin
+        Explain Sides 
+    width
+        max
+        Min
+        fit
+        fixed (default)
+    height
+        max
+        Min
+        fit
+        fixed (default)
+    html behavior
+
+    Backgroundimage
+        attachment
+        color
+        repeat
+        position
+        size
+    Image
+        Image Scaling
+    
+    Border (Example)
+        styles
+    Outline
+
+    Text
+        alignmenet
+        text-decoration
+            text-decoration-line
+            text-decoration-color
+            text-decoration-style
+            text-decoration-thickness
+    Spacing
+        letter-spacing
+        line-height
+        word-spacing
+
+    position
+        sticky
+        fixed
+        static (default)
+        relative
+        absolute
+
+    opacity
+        0-1
+
+    shadow
+        x y z color
+
+    rounded borders
+
+    hover
+    
+    Overflow
+        X
+        y
+        scroll
+        auto
+        hidden
+
+    Full Screen Header
+
+    Centered Website
+        max-width
+        margin: auto
+    
+    overlay
+        relative
+        absolute
+=============================
+Units
+%
+px
+em
+rem
+vh
+vw

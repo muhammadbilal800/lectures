@@ -1,0 +1,59 @@
+CSS 4 Continue
+	
+	Explain Serif & Sans-serif (Example)
+	change font for 1 element
+    change fornt for all
+	
+	Add font from link
+    	add font from file
+        font weight
+	import from from url
+	
+	Link Font Awesome (Icons)
+	
+	FlexBox
+		flex-direction
+		flex-grow
+		flex-wrap
+		order
+
+	Grid Layout
+		col
+		gap
+		span
+
+	tranform
+		translate
+		rotate
+		scale
+	
+	transition
+		
+	summary & Detail styling
+
+	Styling Table
+
+	nth-child
+
+	Display
+		None
+		Inline
+		inline-block
+		block
+
+	styling scroll bar
+	
+	Equally Divide div
+
+	Navbar
+
+	Dropdown
+
+	Copyright Footer
+
+	Responsive
+
+======================
+What is Tailwindcss
+What is Purge in Tailwindcss
+What is main difference between Tailwindcss & bootstrap
