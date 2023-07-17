@@ -1,0 +1,61 @@
+Tailwindcss
+    Intoduction
+
+    Install Extension
+
+    Tailblocks
+
+    margin
+        up-down-left-right
+        negative
+    padding
+        up-down-left-right
+        negative
+
+    backgroundcolor
+    
+    width
+        fixed
+        100%
+        divide
+        max
+        min
+        fit
+
+    height
+        fixed
+        100%
+        divide
+        max
+        min
+        fit
+    BackgroundImage
+
+    border
+        all sides
+        border on sides
+        thinkness
+
+    background opacity
+    opacity
+
+    textcolor
+
+    positions
+        relative
+        absolute
+        fixed
+        sticky
+        static (default)
+    flex
+        direction
+            row
+            column
+        wrap
+        order
+    grid
+        col
+        span (col-span-2)
+=================================
+What is Javascript
+What is DOM Manipulation
