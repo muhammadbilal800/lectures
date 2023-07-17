@@ -1,0 +1,132 @@
+console.log("Hi My name is Ahmer")
+console.log('Ahmer')
+console.log(22)
+console.log(22 + 10)
+
+
+// Variables
+let name = "Ahmer"
+let number_1 = 10
+let number_2 = 20
+let result = number_1 + number_2
+
+const pi = 3.14
+let status = true
+let is_active = false
+
+console.log(number_1 + number_2)
+console.log(result)
+console.log(pi)
+
+//Type checker
+let myName = "Tahir Kaleem"
+let myNumber = 556
+let myTrue = true
+console.log(typeof(myName))
+console.log(typeof(myNumber))
+console.log(typeof(myTrue))
+
+// Commenting
+//alert("This commend is ofr single line!")
+/*
+    This commenting is for multiple lines
+*/
+
+
+//Arithmatic Operations
+console.log(10 + 10) //Addition
+console.log(10 - 10) //Subtraction
+console.log(10 * 10) //Multiplication
+console.log(10 / 10) //Division
+console.log(10 % 10) //Modulus
+
+
+//Strings
+let address = "My Multan"
+let address_2 = 'My Multan City'
+
+let numericString = "12"
+let numberStringResult = 10 + numericString
+console.log(numberStringResult)
+
+// Backticks string
+let numbers = 1025
+console.log(`i got ${numbers} numbers in Matriculation`)
+
+//String Concatination (Join 2 Strings)
+let first_name = "Ahmer"
+let last_name = "Tahir"
+console.log(first_name + " " + last_name)
+
+/* Conditional Operators 
+    == equal to
+    <= less then equal
+    >= greater then equal
+    != not equal to
+    && AND Operaion (All True)
+    || OR Operaion (Anyone True)
+
+    === Equal to (With-Type-Check)
+    <== less then equal (With-Type-Check)
+    >== greater then equal (With-Type-Check)
+    !== not equal to (With-Type-Check)
+*/
+
+//If Condition
+let number1 = 50
+let number2 = 10
+
+if(number1 > number2){
+    console.log(`${number1} is greater then ${number2}`)
+}
+
+//If-else Condition
+if(number1 < number2){
+    console.log(`${number1} is greater then ${number2}`)
+}else{
+    console.log(`${number2} is less then ${number1}`)
+}
+
+//If-elseif-else Condition
+let percentage = 59
+if(percentage > 100){
+    console.log("Persentage can not go above 100")
+}else if(percentage >= 90 && percentage <= 100){
+    console.log("You got A+ Grade with " + percentage + " percentage")
+}else if(percentage >= 70 && percentage <= 90){
+    console.log("You got B+ Grade with " + percentage + " percentage")
+}else if(percentage >= 60 && percentage <= 70){
+    console.log("You got C+ Grade with " + percentage + " percentage")
+}else if(percentage <= 50){
+    console.log("You just passed the exams with " + percentage + " percentage")
+}else{
+    console.log("You failed in exams with " + percentage + " percentage")
+}
+
+//Switch Statements
+let day = "asdasd"
+
+switch(day){
+    case "Monday":
+        console.log("Today is Monday")
+        break;
+    case "Tuesday":
+        console.log("Today is Tuesday")
+        break;
+    case "Wednesday":
+        console.log("Today is Wednesday")
+        break;
+    case "Thursday":
+        console.log("Today is Thursday")
+        break;
+    case "Friday":
+        console.log("Today is Friday")
+        break;
+    case "Saturday":
+        console.log("Today is Saturday")
+        break;
+    default:
+        console.log("Today is Sunday") 
+}
+
+

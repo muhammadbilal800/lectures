@@ -1,0 +1,36 @@
+Javascript
+    What is Javascript
+    Use Of Javascript
+    =============================
+    console
+    alert
+    confirm
+
+    variables
+        var, let, const, nothing
+    datatypes
+        number, string, boolean
+    typeof
+
+    commenting
+    
+    Operation Operators
+        add, subtract, multiply, divide,modulus, increment, decerement
+    String
+        single & double quotes
+        numeric string
+        backtick
+
+    Comparison Opecrators
+        equal, tribbleequal, not equal, greater, less, greaterequal, less and equal
+    Operator Precedence
+
+    Concatination
+
+    Conditionals
+        if
+        elseif
+        else
+        equal, tribbleequal, not equal, greater, less, greaterequal, less and equal
+
+    Switch Statement
